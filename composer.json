@@ -1,6 +1,8 @@
 {
     "name": "pantsel/sso",
-    "description": "",
+    "description": "SSO package for Laravel 4.",
+    "keywords": ["sso", "laravel"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Panagis Tselentis",
