@@ -15,7 +15,7 @@
     },
     "autoload": {
         "classmap": [
-            "src/migrations"
+            
         ],
         "psr-0": {
             "Pantsel\\Sso\\": "src/"
